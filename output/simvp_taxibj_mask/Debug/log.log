@@ -1,0 +1,3016 @@
+2024-10-04 23:15:32,082 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-04 23:23:57,223 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-04 23:27:46,804 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-04 23:36:05,242 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-04 23:42:25,755 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-04 23:43:57,367 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-04 23:51:37,992 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-04 23:52:52,190 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-04 23:53:29,330 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-04 23:56:37,517 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-05 00:12:10,590 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-05 00:13:49,116 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-05 00:14:33,420 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-05 00:15:04,723 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-09 18:20:16,031 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-11 15:30:08,755 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-11 18:35:42,318 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-11 22:44:59,193 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-11 22:45:36,167 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-11 22:49:07,142 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-11 22:49:54,656 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-11 22:50:35,839 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-11 22:54:33,232 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-11 23:07:48,518 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-14 14:59:42,589 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-14 15:23:04,283 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-14 15:36:49,870 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-14 15:38:31,797 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-14 16:21:10,580 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-14 17:30:18,978 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-14 18:47:55,291 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-14 20:15:53,506 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-14 20:21:47,517 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-14 20:50:01,266 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-14 22:38:51,795 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-14 22:41:32,639 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-15 17:50:10,875 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-15 23:30:34,698 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-15 23:47:14,446 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-17 13:54:28,974 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-17 15:49:38,865 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-17 17:31:38,805 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-17 17:42:03,700 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-18 12:34:27,303 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-18 13:30:49,752 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-18 13:45:31,020 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-18 15:46:28,851 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-18 17:16:42,246 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-18 19:42:42,651 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 18:25:19,134 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 19:16:06,626 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 19:39:15,154 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 20:00:36,468 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 22:41:58,932 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 22:42:17,578 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 22:42:58,829 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 22:43:15,637 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 22:43:52,949 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 22:44:40,908 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 22:47:01,200 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 23:03:28,058 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 23:13:26,975 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 23:13:44,112 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 23:21:33,946 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 23:21:41,383 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 23:22:39,081 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 23:24:29,640 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 23:28:10,973 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 23:29:21,436 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 23:30:11,432 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 23:30:36,189 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 23:30:52,058 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	0.001	
+2024-10-20 23:34:21,848 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 12:45:18,075 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 21:28:38,219 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:16:55,100 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:25:44,119 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:27:58,380 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:28:16,040 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:28:35,130 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:30:48,704 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:31:29,225 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:33:13,511 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:34:05,372 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:34:35,806 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:37:00,717 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:37:42,133 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:38:14,564 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:39:02,573 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:39:40,905 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:40:45,186 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:45:48,334 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:46:09,453 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:46:23,436 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:46:50,580 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-21 22:46:57,207 - vali mse:31411504.0000, mae:116090.1250
+2024-10-21 22:46:57,349 - Epoch: 1 | Train Loss: 24363.5964 Vali Loss: 30675.2959
+
+2024-10-21 22:46:59,550 - vali mse:31410408.0000, mae:116086.4766
+2024-10-21 22:46:59,552 - Epoch: 2 | Train Loss: 24364.4105 Vali Loss: 30674.2253
+
+2024-10-21 22:47:01,804 - vali mse:31408222.0000, mae:116079.2422
+2024-10-21 22:47:01,806 - Epoch: 3 | Train Loss: 24368.6042 Vali Loss: 30672.0918
+
+2024-10-21 22:47:04,103 - vali mse:31404642.0000, mae:116067.3438
+2024-10-21 22:47:04,105 - Epoch: 4 | Train Loss: 24367.6027 Vali Loss: 30668.5960
+
+2024-10-21 22:47:06,511 - vali mse:31399116.0000, mae:116048.9062
+2024-10-21 22:47:06,513 - Epoch: 5 | Train Loss: 24362.0706 Vali Loss: 30663.1979
+
+2024-10-22 00:21:46,931 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-22 00:21:55,028 - vali mse:31411504.0000, mae:116090.1250
+2024-10-22 00:21:55,185 - Epoch: 1 | Train Loss: 24363.5964 Vali Loss: 30675.2959
+
+2024-10-22 00:21:57,694 - vali mse:31410408.0000, mae:116086.4766
+2024-10-22 00:21:57,697 - Epoch: 2 | Train Loss: 24364.4105 Vali Loss: 30674.2253
+
+2024-10-22 00:22:00,302 - vali mse:31408222.0000, mae:116079.2422
+2024-10-22 00:22:00,304 - Epoch: 3 | Train Loss: 24368.6042 Vali Loss: 30672.0918
+
+2024-10-22 00:22:02,854 - vali mse:31404642.0000, mae:116067.3438
+2024-10-22 00:22:02,857 - Epoch: 4 | Train Loss: 24367.6027 Vali Loss: 30668.5960
+
+2024-10-22 00:22:05,516 - vali mse:31399116.0000, mae:116048.9062
+2024-10-22 00:22:05,518 - Epoch: 5 | Train Loss: 24362.0706 Vali Loss: 30663.1979
+
+2024-10-22 00:22:08,407 - vali mse:31391512.0000, mae:116023.3828
+2024-10-22 00:22:08,410 - Epoch: 6 | Train Loss: 24358.6895 Vali Loss: 30655.7754
+
+2024-10-22 00:22:11,007 - vali mse:31382492.0000, mae:115992.8672
+2024-10-22 00:22:11,011 - Epoch: 7 | Train Loss: 24351.6676 Vali Loss: 30646.9665
+
+2024-10-22 00:22:13,565 - vali mse:31372092.0000, mae:115957.4375
+2024-10-22 00:22:13,567 - Epoch: 8 | Train Loss: 24343.5579 Vali Loss: 30636.8089
+
+2024-10-22 00:22:16,015 - vali mse:31361352.0000, mae:115920.5469
+2024-10-22 00:22:16,017 - Epoch: 9 | Train Loss: 24344.7754 Vali Loss: 30626.3193
+
+2024-10-22 00:22:18,481 - vali mse:31350450.0000, mae:115882.9062
+2024-10-22 00:22:18,483 - Epoch: 10 | Train Loss: 24332.5296 Vali Loss: 30615.6774
+
+2024-10-22 00:22:21,125 - vali mse:31340024.0000, mae:115846.8125
+2024-10-22 00:22:21,128 - Epoch: 11 | Train Loss: 24322.9170 Vali Loss: 30605.4928
+
+2024-10-22 00:22:23,565 - vali mse:31330056.0000, mae:115812.1719
+2024-10-22 00:22:23,567 - Epoch: 12 | Train Loss: 24316.0518 Vali Loss: 30595.7591
+
+2024-10-22 00:22:26,117 - vali mse:31320544.0000, mae:115778.9375
+2024-10-22 00:22:26,119 - Epoch: 13 | Train Loss: 24313.4814 Vali Loss: 30586.4661
+
+2024-10-22 00:22:28,786 - vali mse:31311808.0000, mae:115748.3750
+2024-10-22 00:22:28,789 - Epoch: 14 | Train Loss: 24306.6471 Vali Loss: 30577.9362
+
+2024-10-22 00:22:31,167 - vali mse:31303552.0000, mae:115719.5391
+2024-10-22 00:22:31,169 - Epoch: 15 | Train Loss: 24302.9886 Vali Loss: 30569.8760
+
+2024-10-22 00:22:33,671 - vali mse:31296246.0000, mae:115693.9844
+2024-10-22 00:22:33,673 - Epoch: 16 | Train Loss: 24290.3434 Vali Loss: 30562.7419
+
+2024-10-22 00:22:36,048 - vali mse:31289746.0000, mae:115671.2031
+2024-10-22 00:22:36,050 - Epoch: 17 | Train Loss: 24286.1999 Vali Loss: 30556.3926
+
+2024-10-22 00:22:38,579 - vali mse:31283806.0000, mae:115650.4062
+2024-10-22 00:22:38,582 - Epoch: 18 | Train Loss: 24286.9704 Vali Loss: 30550.5915
+
+2024-10-22 00:22:41,204 - vali mse:31278708.0000, mae:115632.6562
+2024-10-22 00:22:41,206 - Epoch: 19 | Train Loss: 24279.7956 Vali Loss: 30545.6152
+
+2024-10-22 00:22:43,519 - vali mse:31274302.0000, mae:115617.2500
+2024-10-22 00:22:43,520 - Epoch: 20 | Train Loss: 24280.5684 Vali Loss: 30541.3109
+
+2024-10-22 00:22:45,728 - vali mse:31270562.0000, mae:115604.1562
+2024-10-22 00:22:45,730 - Epoch: 21 | Train Loss: 24276.6654 Vali Loss: 30537.6569
+
+2024-10-22 00:22:48,177 - vali mse:31267418.0000, mae:115593.1250
+2024-10-22 00:22:48,179 - Epoch: 22 | Train Loss: 24281.9333 Vali Loss: 30534.5863
+
+2024-10-22 00:22:50,310 - vali mse:31264926.0000, mae:115584.3828
+2024-10-22 00:22:50,312 - Epoch: 23 | Train Loss: 24272.0309 Vali Loss: 30532.1546
+
+2024-10-22 00:22:52,760 - vali mse:31263078.0000, mae:115577.8906
+2024-10-22 00:22:52,762 - Epoch: 24 | Train Loss: 24271.4977 Vali Loss: 30530.3499
+
+2024-10-22 00:22:55,552 - vali mse:31261724.0000, mae:115573.1406
+2024-10-22 00:22:55,555 - Epoch: 25 | Train Loss: 24263.9727 Vali Loss: 30529.0267
+
+2024-10-22 00:22:58,634 - vali mse:31260782.0000, mae:115569.8438
+2024-10-22 00:22:58,637 - Epoch: 26 | Train Loss: 24264.9427 Vali Loss: 30528.1055
+
+2024-10-22 00:23:01,538 - vali mse:31260248.0000, mae:115567.9844
+2024-10-22 00:23:01,541 - Epoch: 27 | Train Loss: 24263.8151 Vali Loss: 30527.5850
+
+2024-10-22 00:23:04,694 - vali mse:31259950.0000, mae:115566.9531
+2024-10-22 00:23:04,696 - Epoch: 28 | Train Loss: 24270.7773 Vali Loss: 30527.2939
+
+2024-10-22 00:23:07,354 - vali mse:31259854.0000, mae:115566.6250
+2024-10-22 00:23:07,358 - Epoch: 29 | Train Loss: 24260.4180 Vali Loss: 30527.2005
+
+2024-10-22 00:23:11,038 - vali mse:31259840.0000, mae:115566.5781
+2024-10-22 00:23:11,041 - Epoch: 30 | Train Loss: 24259.1348 Vali Loss: 30527.1875
+
+2024-10-22 00:24:04,359 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-22 00:24:12,832 - vali mse:31411504.0000, mae:116090.1250
+2024-10-22 00:24:12,997 - Epoch: 1 | Train Loss: 24363.5964 Vali Loss: 30675.2959
+
+2024-10-22 00:24:15,793 - vali mse:31410408.0000, mae:116086.4766
+2024-10-22 00:24:15,795 - Epoch: 2 | Train Loss: 24364.4105 Vali Loss: 30674.2253
+
+2024-10-22 00:24:18,522 - vali mse:31408222.0000, mae:116079.2422
+2024-10-22 00:24:18,524 - Epoch: 3 | Train Loss: 24368.6042 Vali Loss: 30672.0918
+
+2024-10-22 00:24:21,138 - vali mse:31404642.0000, mae:116067.3438
+2024-10-22 00:24:21,140 - Epoch: 4 | Train Loss: 24367.6027 Vali Loss: 30668.5960
+
+2024-10-22 00:24:23,678 - vali mse:31399116.0000, mae:116048.9062
+2024-10-22 00:24:23,680 - Epoch: 5 | Train Loss: 24362.0706 Vali Loss: 30663.1979
+
+2024-10-22 00:24:26,039 - vali mse:31391512.0000, mae:116023.3828
+2024-10-22 00:24:26,041 - Epoch: 6 | Train Loss: 24358.6895 Vali Loss: 30655.7754
+
+2024-10-22 00:24:29,032 - vali mse:31382492.0000, mae:115992.8672
+2024-10-22 00:24:29,035 - Epoch: 7 | Train Loss: 24351.6676 Vali Loss: 30646.9665
+
+2024-10-22 00:24:32,067 - vali mse:31372092.0000, mae:115957.4375
+2024-10-22 00:24:32,070 - Epoch: 8 | Train Loss: 24343.5579 Vali Loss: 30636.8089
+
+2024-10-22 00:24:34,861 - vali mse:31361352.0000, mae:115920.5469
+2024-10-22 00:24:34,863 - Epoch: 9 | Train Loss: 24344.7754 Vali Loss: 30626.3193
+
+2024-10-22 00:24:37,778 - vali mse:31350450.0000, mae:115882.9062
+2024-10-22 00:24:37,783 - Epoch: 10 | Train Loss: 24332.5296 Vali Loss: 30615.6774
+
+2024-10-22 00:24:41,240 - vali mse:31340024.0000, mae:115846.8125
+2024-10-22 00:24:41,243 - Epoch: 11 | Train Loss: 24322.9170 Vali Loss: 30605.4928
+
+2024-10-22 00:24:44,264 - vali mse:31330056.0000, mae:115812.1719
+2024-10-22 00:24:44,266 - Epoch: 12 | Train Loss: 24316.0518 Vali Loss: 30595.7591
+
+2024-10-22 00:24:46,868 - vali mse:31320544.0000, mae:115778.9375
+2024-10-22 00:24:46,870 - Epoch: 13 | Train Loss: 24313.4814 Vali Loss: 30586.4661
+
+2024-10-22 00:24:49,417 - vali mse:31311808.0000, mae:115748.3750
+2024-10-22 00:24:49,419 - Epoch: 14 | Train Loss: 24306.6471 Vali Loss: 30577.9362
+
+2024-10-22 00:24:51,872 - vali mse:31303552.0000, mae:115719.5391
+2024-10-22 00:24:51,874 - Epoch: 15 | Train Loss: 24302.9886 Vali Loss: 30569.8760
+
+2024-10-22 00:24:54,658 - vali mse:31296246.0000, mae:115693.9844
+2024-10-22 00:24:54,661 - Epoch: 16 | Train Loss: 24290.3434 Vali Loss: 30562.7419
+
+2024-10-22 00:24:57,462 - vali mse:31289746.0000, mae:115671.2031
+2024-10-22 00:24:57,464 - Epoch: 17 | Train Loss: 24286.1999 Vali Loss: 30556.3926
+
+2024-10-22 00:25:00,249 - vali mse:31283806.0000, mae:115650.4062
+2024-10-22 00:25:00,252 - Epoch: 18 | Train Loss: 24286.9704 Vali Loss: 30550.5915
+
+2024-10-22 00:25:03,241 - vali mse:31278708.0000, mae:115632.6562
+2024-10-22 00:25:03,243 - Epoch: 19 | Train Loss: 24279.7956 Vali Loss: 30545.6152
+
+2024-10-22 00:25:06,006 - vali mse:31274302.0000, mae:115617.2500
+2024-10-22 00:25:06,008 - Epoch: 20 | Train Loss: 24280.5684 Vali Loss: 30541.3109
+
+2024-10-22 00:25:08,601 - vali mse:31270562.0000, mae:115604.1562
+2024-10-22 00:25:08,603 - Epoch: 21 | Train Loss: 24276.6654 Vali Loss: 30537.6569
+
+2024-10-22 00:25:11,735 - vali mse:31267418.0000, mae:115593.1250
+2024-10-22 00:25:11,738 - Epoch: 22 | Train Loss: 24281.9333 Vali Loss: 30534.5863
+
+2024-10-22 00:25:14,912 - vali mse:31264926.0000, mae:115584.3828
+2024-10-22 00:25:14,915 - Epoch: 23 | Train Loss: 24272.0309 Vali Loss: 30532.1546
+
+2024-10-22 00:25:18,435 - vali mse:31263078.0000, mae:115577.8906
+2024-10-22 00:25:18,437 - Epoch: 24 | Train Loss: 24271.4977 Vali Loss: 30530.3499
+
+2024-10-22 00:25:22,214 - vali mse:31261724.0000, mae:115573.1406
+2024-10-22 00:25:22,217 - Epoch: 25 | Train Loss: 24263.9727 Vali Loss: 30529.0267
+
+2024-10-22 00:25:25,759 - vali mse:31260782.0000, mae:115569.8438
+2024-10-22 00:25:25,761 - Epoch: 26 | Train Loss: 24264.9427 Vali Loss: 30528.1055
+
+2024-10-22 00:25:28,622 - vali mse:31260248.0000, mae:115567.9844
+2024-10-22 00:25:28,624 - Epoch: 27 | Train Loss: 24263.8151 Vali Loss: 30527.5850
+
+2024-10-22 00:25:31,362 - vali mse:31259950.0000, mae:115566.9531
+2024-10-22 00:25:31,364 - Epoch: 28 | Train Loss: 24270.7773 Vali Loss: 30527.2939
+
+2024-10-22 00:25:33,846 - vali mse:31259854.0000, mae:115566.6250
+2024-10-22 00:25:33,848 - Epoch: 29 | Train Loss: 24260.4180 Vali Loss: 30527.2005
+
+2024-10-22 00:25:36,497 - vali mse:31259840.0000, mae:115566.5781
+2024-10-22 00:25:36,498 - Epoch: 30 | Train Loss: 24259.1348 Vali Loss: 30527.1875
+
+2024-10-22 00:25:49,489 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-22 00:25:56,742 - vali mse:31411504.0000, mae:116090.1250
+2024-10-22 00:25:56,897 - Epoch: 1 | Train Loss: 24363.5964 Vali Loss: 30675.2959
+
+2024-10-22 00:25:59,475 - vali mse:31410408.0000, mae:116086.4766
+2024-10-22 00:25:59,477 - Epoch: 2 | Train Loss: 24364.4105 Vali Loss: 30674.2253
+
+2024-10-22 00:26:02,182 - vali mse:31408222.0000, mae:116079.2422
+2024-10-22 00:26:02,184 - Epoch: 3 | Train Loss: 24368.6042 Vali Loss: 30672.0918
+
+2024-10-22 00:26:04,649 - vali mse:31404642.0000, mae:116067.3438
+2024-10-22 00:26:04,651 - Epoch: 4 | Train Loss: 24367.6027 Vali Loss: 30668.5960
+
+2024-10-22 00:26:07,058 - vali mse:31399116.0000, mae:116048.9062
+2024-10-22 00:26:07,061 - Epoch: 5 | Train Loss: 24362.0706 Vali Loss: 30663.1979
+
+2024-10-22 00:26:09,437 - vali mse:31391512.0000, mae:116023.3828
+2024-10-22 00:26:09,439 - Epoch: 6 | Train Loss: 24358.6895 Vali Loss: 30655.7754
+
+2024-10-22 00:26:11,815 - vali mse:31382492.0000, mae:115992.8672
+2024-10-22 00:26:11,817 - Epoch: 7 | Train Loss: 24351.6676 Vali Loss: 30646.9665
+
+2024-10-22 00:26:14,230 - vali mse:31372092.0000, mae:115957.4375
+2024-10-22 00:26:14,232 - Epoch: 8 | Train Loss: 24343.5579 Vali Loss: 30636.8089
+
+2024-10-22 00:26:16,939 - vali mse:31361352.0000, mae:115920.5469
+2024-10-22 00:26:16,941 - Epoch: 9 | Train Loss: 24344.7754 Vali Loss: 30626.3193
+
+2024-10-22 00:26:19,668 - vali mse:31350450.0000, mae:115882.9062
+2024-10-22 00:26:19,670 - Epoch: 10 | Train Loss: 24332.5296 Vali Loss: 30615.6774
+
+2024-10-22 00:26:22,650 - vali mse:31340024.0000, mae:115846.8125
+2024-10-22 00:26:22,652 - Epoch: 11 | Train Loss: 24322.9170 Vali Loss: 30605.4928
+
+2024-10-22 00:26:25,654 - vali mse:31330056.0000, mae:115812.1719
+2024-10-22 00:26:25,657 - Epoch: 12 | Train Loss: 24316.0518 Vali Loss: 30595.7591
+
+2024-10-22 00:26:28,839 - vali mse:31320544.0000, mae:115778.9375
+2024-10-22 00:26:28,841 - Epoch: 13 | Train Loss: 24313.4814 Vali Loss: 30586.4661
+
+2024-10-22 00:26:31,840 - vali mse:31311808.0000, mae:115748.3750
+2024-10-22 00:26:31,843 - Epoch: 14 | Train Loss: 24306.6471 Vali Loss: 30577.9362
+
+2024-10-22 00:26:34,434 - vali mse:31303552.0000, mae:115719.5391
+2024-10-22 00:26:34,436 - Epoch: 15 | Train Loss: 24302.9886 Vali Loss: 30569.8760
+
+2024-10-22 00:26:36,760 - vali mse:31296246.0000, mae:115693.9844
+2024-10-22 00:26:36,762 - Epoch: 16 | Train Loss: 24290.3434 Vali Loss: 30562.7419
+
+2024-10-22 00:26:39,350 - vali mse:31289746.0000, mae:115671.2031
+2024-10-22 00:26:39,353 - Epoch: 17 | Train Loss: 24286.1999 Vali Loss: 30556.3926
+
+2024-10-22 00:26:42,413 - vali mse:31283806.0000, mae:115650.4062
+2024-10-22 00:26:42,416 - Epoch: 18 | Train Loss: 24286.9704 Vali Loss: 30550.5915
+
+2024-10-22 00:26:45,428 - vali mse:31278708.0000, mae:115632.6562
+2024-10-22 00:26:45,431 - Epoch: 19 | Train Loss: 24279.7956 Vali Loss: 30545.6152
+
+2024-10-22 00:26:48,268 - vali mse:31274302.0000, mae:115617.2500
+2024-10-22 00:26:48,270 - Epoch: 20 | Train Loss: 24280.5684 Vali Loss: 30541.3109
+
+2024-10-22 00:26:51,011 - vali mse:31270562.0000, mae:115604.1562
+2024-10-22 00:26:51,014 - Epoch: 21 | Train Loss: 24276.6654 Vali Loss: 30537.6569
+
+2024-10-22 00:26:53,496 - vali mse:31267418.0000, mae:115593.1250
+2024-10-22 00:26:53,499 - Epoch: 22 | Train Loss: 24281.9333 Vali Loss: 30534.5863
+
+2024-10-22 00:26:56,042 - vali mse:31264926.0000, mae:115584.3828
+2024-10-22 00:26:56,044 - Epoch: 23 | Train Loss: 24272.0309 Vali Loss: 30532.1546
+
+2024-10-22 00:26:58,559 - vali mse:31263078.0000, mae:115577.8906
+2024-10-22 00:26:58,561 - Epoch: 24 | Train Loss: 24271.4977 Vali Loss: 30530.3499
+
+2024-10-22 00:27:00,957 - vali mse:31261724.0000, mae:115573.1406
+2024-10-22 00:27:00,958 - Epoch: 25 | Train Loss: 24263.9727 Vali Loss: 30529.0267
+
+2024-10-22 00:27:03,606 - vali mse:31260782.0000, mae:115569.8438
+2024-10-22 00:27:03,609 - Epoch: 26 | Train Loss: 24264.9427 Vali Loss: 30528.1055
+
+2024-10-22 00:27:06,298 - vali mse:31260248.0000, mae:115567.9844
+2024-10-22 00:27:06,300 - Epoch: 27 | Train Loss: 24263.8151 Vali Loss: 30527.5850
+
+2024-10-22 00:27:09,209 - vali mse:31259950.0000, mae:115566.9531
+2024-10-22 00:27:09,212 - Epoch: 28 | Train Loss: 24270.7773 Vali Loss: 30527.2939
+
+2024-10-22 00:27:11,889 - vali mse:31259854.0000, mae:115566.6250
+2024-10-22 00:27:11,891 - Epoch: 29 | Train Loss: 24260.4180 Vali Loss: 30527.2005
+
+2024-10-22 00:27:14,603 - vali mse:31259840.0000, mae:115566.5781
+2024-10-22 00:27:14,606 - Epoch: 30 | Train Loss: 24259.1348 Vali Loss: 30527.1875
+
+2024-10-22 00:27:15,987 - mse:31259840.0000, mae:115566.5781
+2024-10-22 00:27:53,755 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-22 00:28:01,295 - vali mse:31411504.0000, mae:116090.1250
+2024-10-22 00:28:01,446 - Epoch: 1 | Train Loss: 24363.5964 Vali Loss: 30675.2959
+
+2024-10-22 00:28:04,245 - vali mse:31410408.0000, mae:116086.4766
+2024-10-22 00:28:04,247 - Epoch: 2 | Train Loss: 24364.4105 Vali Loss: 30674.2253
+
+2024-10-22 00:28:06,697 - vali mse:31408222.0000, mae:116079.2422
+2024-10-22 00:28:06,698 - Epoch: 3 | Train Loss: 24368.6042 Vali Loss: 30672.0918
+
+2024-10-22 00:28:09,145 - vali mse:31404642.0000, mae:116067.3438
+2024-10-22 00:28:09,147 - Epoch: 4 | Train Loss: 24367.6027 Vali Loss: 30668.5960
+
+2024-10-22 00:28:11,555 - vali mse:31399116.0000, mae:116048.9062
+2024-10-22 00:28:11,557 - Epoch: 5 | Train Loss: 24362.0706 Vali Loss: 30663.1979
+
+2024-10-22 00:28:14,133 - vali mse:31391512.0000, mae:116023.3828
+2024-10-22 00:28:14,136 - Epoch: 6 | Train Loss: 24358.6895 Vali Loss: 30655.7754
+
+2024-10-22 00:28:16,956 - vali mse:31382492.0000, mae:115992.8672
+2024-10-22 00:28:16,959 - Epoch: 7 | Train Loss: 24351.6676 Vali Loss: 30646.9665
+
+2024-10-22 00:28:20,088 - vali mse:31372092.0000, mae:115957.4375
+2024-10-22 00:28:20,091 - Epoch: 8 | Train Loss: 24343.5579 Vali Loss: 30636.8089
+
+2024-10-22 00:28:23,200 - vali mse:31361352.0000, mae:115920.5469
+2024-10-22 00:28:23,202 - Epoch: 9 | Train Loss: 24344.7754 Vali Loss: 30626.3193
+
+2024-10-22 00:28:26,257 - vali mse:31350450.0000, mae:115882.9062
+2024-10-22 00:28:26,259 - Epoch: 10 | Train Loss: 24332.5296 Vali Loss: 30615.6774
+
+2024-10-22 00:28:29,182 - vali mse:31340024.0000, mae:115846.8125
+2024-10-22 00:28:29,185 - Epoch: 11 | Train Loss: 24322.9170 Vali Loss: 30605.4928
+
+2024-10-22 00:28:31,990 - vali mse:31330056.0000, mae:115812.1719
+2024-10-22 00:28:31,992 - Epoch: 12 | Train Loss: 24316.0518 Vali Loss: 30595.7591
+
+2024-10-22 00:28:34,829 - vali mse:31320544.0000, mae:115778.9375
+2024-10-22 00:28:34,831 - Epoch: 13 | Train Loss: 24313.4814 Vali Loss: 30586.4661
+
+2024-10-22 00:28:37,632 - vali mse:31311808.0000, mae:115748.3750
+2024-10-22 00:28:37,634 - Epoch: 14 | Train Loss: 24306.6471 Vali Loss: 30577.9362
+
+2024-10-22 00:28:40,276 - vali mse:31303552.0000, mae:115719.5391
+2024-10-22 00:28:40,278 - Epoch: 15 | Train Loss: 24302.9886 Vali Loss: 30569.8760
+
+2024-10-22 00:28:43,198 - vali mse:31296246.0000, mae:115693.9844
+2024-10-22 00:28:43,200 - Epoch: 16 | Train Loss: 24290.3434 Vali Loss: 30562.7419
+
+2024-10-22 00:28:45,702 - vali mse:31289746.0000, mae:115671.2031
+2024-10-22 00:28:45,704 - Epoch: 17 | Train Loss: 24286.1999 Vali Loss: 30556.3926
+
+2024-10-22 00:28:48,160 - vali mse:31283806.0000, mae:115650.4062
+2024-10-22 00:28:48,162 - Epoch: 18 | Train Loss: 24286.9704 Vali Loss: 30550.5915
+
+2024-10-22 00:28:50,638 - vali mse:31278708.0000, mae:115632.6562
+2024-10-22 00:28:50,640 - Epoch: 19 | Train Loss: 24279.7956 Vali Loss: 30545.6152
+
+2024-10-22 00:28:53,064 - vali mse:31274302.0000, mae:115617.2500
+2024-10-22 00:28:53,066 - Epoch: 20 | Train Loss: 24280.5684 Vali Loss: 30541.3109
+
+2024-10-22 00:28:55,509 - vali mse:31270562.0000, mae:115604.1562
+2024-10-22 00:28:55,511 - Epoch: 21 | Train Loss: 24276.6654 Vali Loss: 30537.6569
+
+2024-10-22 00:28:58,072 - vali mse:31267418.0000, mae:115593.1250
+2024-10-22 00:28:58,074 - Epoch: 22 | Train Loss: 24281.9333 Vali Loss: 30534.5863
+
+2024-10-22 00:29:00,502 - vali mse:31264926.0000, mae:115584.3828
+2024-10-22 00:29:00,505 - Epoch: 23 | Train Loss: 24272.0309 Vali Loss: 30532.1546
+
+2024-10-22 00:29:02,942 - vali mse:31263078.0000, mae:115577.8906
+2024-10-22 00:29:02,944 - Epoch: 24 | Train Loss: 24271.4977 Vali Loss: 30530.3499
+
+2024-10-22 00:29:05,711 - vali mse:31261724.0000, mae:115573.1406
+2024-10-22 00:29:05,714 - Epoch: 25 | Train Loss: 24263.9727 Vali Loss: 30529.0267
+
+2024-10-22 00:29:08,619 - vali mse:31260782.0000, mae:115569.8438
+2024-10-22 00:29:08,621 - Epoch: 26 | Train Loss: 24264.9427 Vali Loss: 30528.1055
+
+2024-10-22 00:29:11,817 - vali mse:31260248.0000, mae:115567.9844
+2024-10-22 00:29:11,819 - Epoch: 27 | Train Loss: 24263.8151 Vali Loss: 30527.5850
+
+2024-10-22 00:29:14,820 - vali mse:31259950.0000, mae:115566.9531
+2024-10-22 00:29:14,823 - Epoch: 28 | Train Loss: 24270.7773 Vali Loss: 30527.2939
+
+2024-10-22 00:29:17,620 - vali mse:31259854.0000, mae:115566.6250
+2024-10-22 00:29:17,623 - Epoch: 29 | Train Loss: 24260.4180 Vali Loss: 30527.2005
+
+2024-10-22 00:29:20,475 - vali mse:31259840.0000, mae:115566.5781
+2024-10-22 00:29:20,477 - Epoch: 30 | Train Loss: 24259.1348 Vali Loss: 30527.1875
+
+2024-10-22 00:29:21,782 - mse:31259840.0000, mae:115566.5781
+2024-10-24 18:42:20,883 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-24 18:42:26,272 - vali mse:31411514.0000, mae:116090.1562
+2024-10-24 18:42:26,488 - Epoch: 1 | Train Loss: 24363.5973 Vali Loss: 30675.3070
+
+2024-10-24 18:42:28,355 - vali mse:31410392.0000, mae:116086.4375
+2024-10-24 18:42:28,357 - Epoch: 2 | Train Loss: 24364.4069 Vali Loss: 30674.2109
+
+2024-10-24 18:42:30,221 - vali mse:31408220.0000, mae:116079.2422
+2024-10-24 18:42:30,224 - Epoch: 3 | Train Loss: 24368.6022 Vali Loss: 30672.0908
+
+2024-10-24 18:42:32,106 - vali mse:31404634.0000, mae:116067.3281
+2024-10-24 18:42:32,109 - Epoch: 4 | Train Loss: 24367.6097 Vali Loss: 30668.5859
+
+2024-10-24 18:42:33,994 - vali mse:31399120.0000, mae:116048.8984
+2024-10-24 18:42:33,996 - Epoch: 5 | Train Loss: 24362.0713 Vali Loss: 30663.2021
+
+2024-10-24 18:42:35,872 - vali mse:31391524.0000, mae:116023.4375
+2024-10-24 18:42:35,874 - Epoch: 6 | Train Loss: 24358.6852 Vali Loss: 30655.7858
+
+2024-10-24 18:42:37,742 - vali mse:31382492.0000, mae:115992.8594
+2024-10-24 18:42:37,744 - Epoch: 7 | Train Loss: 24351.6667 Vali Loss: 30646.9642
+
+2024-10-24 18:42:39,613 - vali mse:31372088.0000, mae:115957.4297
+2024-10-24 18:42:39,615 - Epoch: 8 | Train Loss: 24343.5563 Vali Loss: 30636.8034
+
+2024-10-24 18:42:41,490 - vali mse:31361326.0000, mae:115920.4766
+2024-10-24 18:42:41,492 - Epoch: 9 | Train Loss: 24344.7770 Vali Loss: 30626.2939
+
+2024-10-24 18:42:43,357 - vali mse:31350448.0000, mae:115882.8984
+2024-10-24 18:42:43,359 - Epoch: 10 | Train Loss: 24332.5270 Vali Loss: 30615.6729
+
+2024-10-24 18:42:45,250 - vali mse:31340032.0000, mae:115846.8281
+2024-10-24 18:42:45,252 - Epoch: 11 | Train Loss: 24322.9147 Vali Loss: 30605.5020
+
+2024-10-24 18:42:47,128 - vali mse:31330056.0000, mae:115812.1719
+2024-10-24 18:42:47,130 - Epoch: 12 | Train Loss: 24316.0498 Vali Loss: 30595.7598
+
+2024-10-24 18:42:48,988 - vali mse:31320544.0000, mae:115778.9375
+2024-10-24 18:42:48,990 - Epoch: 13 | Train Loss: 24313.4821 Vali Loss: 30586.4684
+
+2024-10-24 18:42:50,859 - vali mse:31311796.0000, mae:115748.3359
+2024-10-24 18:42:50,861 - Epoch: 14 | Train Loss: 24306.6488 Vali Loss: 30577.9264
+
+2024-10-24 18:42:52,730 - vali mse:31303554.0000, mae:115719.5391
+2024-10-24 18:42:52,732 - Epoch: 15 | Train Loss: 24302.9893 Vali Loss: 30569.8757
+
+2024-10-24 18:42:54,592 - vali mse:31296236.0000, mae:115693.9453
+2024-10-24 18:42:54,595 - Epoch: 16 | Train Loss: 24290.3441 Vali Loss: 30562.7324
+
+2024-10-24 18:42:56,323 - vali mse:31289732.0000, mae:115671.1406
+2024-10-24 18:42:56,326 - Epoch: 17 | Train Loss: 24286.1992 Vali Loss: 30556.3796
+
+2024-10-24 18:42:58,124 - vali mse:31283800.0000, mae:115650.3750
+2024-10-24 18:42:58,126 - Epoch: 18 | Train Loss: 24286.9710 Vali Loss: 30550.5876
+
+2024-10-24 18:42:59,954 - vali mse:31278716.0000, mae:115632.6719
+2024-10-24 18:42:59,956 - Epoch: 19 | Train Loss: 24279.7959 Vali Loss: 30545.6221
+
+2024-10-24 18:43:01,699 - vali mse:31274300.0000, mae:115617.2422
+2024-10-24 18:43:01,702 - Epoch: 20 | Train Loss: 24280.5692 Vali Loss: 30541.3092
+
+2024-10-24 18:43:03,440 - vali mse:31270560.0000, mae:115604.1406
+2024-10-24 18:43:03,442 - Epoch: 21 | Train Loss: 24276.6654 Vali Loss: 30537.6576
+
+2024-10-24 18:43:05,164 - vali mse:31267416.0000, mae:115593.1016
+2024-10-24 18:43:05,166 - Epoch: 22 | Train Loss: 24281.9342 Vali Loss: 30534.5859
+
+2024-10-24 18:43:06,897 - vali mse:31264948.0000, mae:115584.4531
+2024-10-24 18:43:06,899 - Epoch: 23 | Train Loss: 24272.0299 Vali Loss: 30532.1761
+
+2024-10-24 18:43:08,634 - vali mse:31263074.0000, mae:115577.8750
+2024-10-24 18:43:08,636 - Epoch: 24 | Train Loss: 24271.5085 Vali Loss: 30530.3457
+
+2024-10-24 18:43:10,376 - vali mse:31261712.0000, mae:115573.1016
+2024-10-24 18:43:10,378 - Epoch: 25 | Train Loss: 24263.9626 Vali Loss: 30529.0166
+
+2024-10-24 18:43:12,201 - vali mse:31260794.0000, mae:115569.8984
+2024-10-24 18:43:12,203 - Epoch: 26 | Train Loss: 24264.9411 Vali Loss: 30528.1214
+
+2024-10-24 18:43:14,056 - vali mse:31260242.0000, mae:115567.9766
+2024-10-24 18:43:14,058 - Epoch: 27 | Train Loss: 24263.8177 Vali Loss: 30527.5804
+
+2024-10-24 18:43:15,907 - vali mse:31259960.0000, mae:115566.9844
+2024-10-24 18:43:15,910 - Epoch: 28 | Train Loss: 24270.7731 Vali Loss: 30527.3040
+
+2024-10-24 18:43:17,761 - vali mse:31259860.0000, mae:115566.6328
+2024-10-24 18:43:17,763 - Epoch: 29 | Train Loss: 24260.4225 Vali Loss: 30527.2054
+
+2024-10-24 18:43:19,616 - vali mse:31259848.0000, mae:115566.5859
+2024-10-24 18:43:19,619 - Epoch: 30 | Train Loss: 24259.1400 Vali Loss: 30527.1934
+
+2024-10-24 18:43:20,374 - mse:31259848.0000, mae:115566.5859
+2024-10-24 22:20:05,934 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-10-24 22:20:11,192 - vali mse:31411514.0000, mae:116090.1562
+2024-10-24 22:20:11,408 - Epoch: 1 | Train Loss: 24363.5973 Vali Loss: 30675.3070
+
+2024-10-24 22:20:13,301 - vali mse:31410392.0000, mae:116086.4375
+2024-10-24 22:20:13,304 - Epoch: 2 | Train Loss: 24364.4069 Vali Loss: 30674.2109
+
+2024-10-24 22:20:15,207 - vali mse:31408220.0000, mae:116079.2422
+2024-10-24 22:20:15,210 - Epoch: 3 | Train Loss: 24368.6022 Vali Loss: 30672.0908
+
+2024-10-24 22:20:17,101 - vali mse:31404634.0000, mae:116067.3281
+2024-10-24 22:20:17,103 - Epoch: 4 | Train Loss: 24367.6097 Vali Loss: 30668.5859
+
+2024-10-24 22:20:19,021 - vali mse:31399120.0000, mae:116048.8984
+2024-10-24 22:20:19,024 - Epoch: 5 | Train Loss: 24362.0713 Vali Loss: 30663.2021
+
+2024-10-24 22:20:20,907 - vali mse:31391524.0000, mae:116023.4375
+2024-10-24 22:20:20,909 - Epoch: 6 | Train Loss: 24358.6852 Vali Loss: 30655.7858
+
+2024-10-24 22:20:22,900 - vali mse:31382492.0000, mae:115992.8594
+2024-10-24 22:20:22,903 - Epoch: 7 | Train Loss: 24351.6667 Vali Loss: 30646.9642
+
+2024-10-24 22:20:25,082 - vali mse:31372088.0000, mae:115957.4297
+2024-10-24 22:20:25,085 - Epoch: 8 | Train Loss: 24343.5563 Vali Loss: 30636.8034
+
+2024-10-24 22:20:26,979 - vali mse:31361326.0000, mae:115920.4766
+2024-10-24 22:20:26,981 - Epoch: 9 | Train Loss: 24344.7770 Vali Loss: 30626.2939
+
+2024-10-24 22:20:28,869 - vali mse:31350448.0000, mae:115882.8984
+2024-10-24 22:20:28,871 - Epoch: 10 | Train Loss: 24332.5270 Vali Loss: 30615.6729
+
+2024-10-24 22:20:30,834 - vali mse:31340032.0000, mae:115846.8281
+2024-10-24 22:20:30,836 - Epoch: 11 | Train Loss: 24322.9147 Vali Loss: 30605.5020
+
+2024-10-24 22:20:32,719 - vali mse:31330056.0000, mae:115812.1719
+2024-10-24 22:20:32,722 - Epoch: 12 | Train Loss: 24316.0498 Vali Loss: 30595.7598
+
+2024-10-24 22:20:34,612 - vali mse:31320544.0000, mae:115778.9375
+2024-10-24 22:20:34,614 - Epoch: 13 | Train Loss: 24313.4821 Vali Loss: 30586.4684
+
+2024-10-24 22:20:36,501 - vali mse:31311796.0000, mae:115748.3359
+2024-10-24 22:20:36,504 - Epoch: 14 | Train Loss: 24306.6488 Vali Loss: 30577.9264
+
+2024-10-24 22:20:38,410 - vali mse:31303554.0000, mae:115719.5391
+2024-10-24 22:20:38,412 - Epoch: 15 | Train Loss: 24302.9893 Vali Loss: 30569.8757
+
+2024-10-24 22:20:40,306 - vali mse:31296236.0000, mae:115693.9453
+2024-10-24 22:20:40,308 - Epoch: 16 | Train Loss: 24290.3441 Vali Loss: 30562.7324
+
+2024-10-24 22:20:42,213 - vali mse:31289732.0000, mae:115671.1406
+2024-10-24 22:20:42,215 - Epoch: 17 | Train Loss: 24286.1992 Vali Loss: 30556.3796
+
+2024-10-24 22:20:44,114 - vali mse:31283800.0000, mae:115650.3750
+2024-10-24 22:20:44,117 - Epoch: 18 | Train Loss: 24286.9710 Vali Loss: 30550.5876
+
+2024-10-24 22:20:46,009 - vali mse:31278716.0000, mae:115632.6719
+2024-10-24 22:20:46,012 - Epoch: 19 | Train Loss: 24279.7959 Vali Loss: 30545.6221
+
+2024-10-24 22:20:47,906 - vali mse:31274300.0000, mae:115617.2422
+2024-10-24 22:20:47,908 - Epoch: 20 | Train Loss: 24280.5692 Vali Loss: 30541.3092
+
+2024-10-24 22:20:49,802 - vali mse:31270560.0000, mae:115604.1406
+2024-10-24 22:20:49,805 - Epoch: 21 | Train Loss: 24276.6654 Vali Loss: 30537.6576
+
+2024-10-24 22:20:51,670 - vali mse:31267416.0000, mae:115593.1016
+2024-10-24 22:20:51,672 - Epoch: 22 | Train Loss: 24281.9342 Vali Loss: 30534.5859
+
+2024-10-24 22:20:53,591 - vali mse:31264948.0000, mae:115584.4531
+2024-10-24 22:20:53,594 - Epoch: 23 | Train Loss: 24272.0299 Vali Loss: 30532.1761
+
+2024-10-24 22:20:55,485 - vali mse:31263074.0000, mae:115577.8750
+2024-10-24 22:20:55,487 - Epoch: 24 | Train Loss: 24271.5085 Vali Loss: 30530.3457
+
+2024-10-24 22:20:57,379 - vali mse:31261712.0000, mae:115573.1016
+2024-10-24 22:20:57,381 - Epoch: 25 | Train Loss: 24263.9626 Vali Loss: 30529.0166
+
+2024-10-24 22:20:59,299 - vali mse:31260794.0000, mae:115569.8984
+2024-10-24 22:20:59,301 - Epoch: 26 | Train Loss: 24264.9411 Vali Loss: 30528.1214
+
+2024-10-24 22:21:01,237 - vali mse:31260242.0000, mae:115567.9766
+2024-10-24 22:21:01,240 - Epoch: 27 | Train Loss: 24263.8177 Vali Loss: 30527.5804
+
+2024-10-24 22:21:03,143 - vali mse:31259960.0000, mae:115566.9844
+2024-10-24 22:21:03,146 - Epoch: 28 | Train Loss: 24270.7731 Vali Loss: 30527.3040
+
+2024-10-24 22:21:05,051 - vali mse:31259860.0000, mae:115566.6328
+2024-10-24 22:21:05,053 - Epoch: 29 | Train Loss: 24260.4225 Vali Loss: 30527.2054
+
+2024-10-24 22:21:06,945 - vali mse:31259848.0000, mae:115566.5859
+2024-10-24 22:21:06,948 - Epoch: 30 | Train Loss: 24259.1400 Vali Loss: 30527.1934
+
+2024-10-24 22:21:07,728 - mse:31259848.0000, mae:115566.5859
+2024-11-04 13:00:27,083 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-11-04 13:00:32,175 - vali mse:31411514.0000, mae:116090.1562
+2024-11-04 13:00:32,377 - Epoch: 1 | Train Loss: 24363.5973 Vali Loss: 30675.3070
+
+2024-11-04 13:00:34,042 - vali mse:31410392.0000, mae:116086.4375
+2024-11-04 13:00:34,045 - Epoch: 2 | Train Loss: 24364.4069 Vali Loss: 30674.2109
+
+2024-11-04 13:00:35,715 - vali mse:31408220.0000, mae:116079.2422
+2024-11-04 13:00:35,717 - Epoch: 3 | Train Loss: 24368.6022 Vali Loss: 30672.0908
+
+2024-11-04 13:00:37,408 - vali mse:31404634.0000, mae:116067.3281
+2024-11-04 13:00:37,410 - Epoch: 4 | Train Loss: 24367.6097 Vali Loss: 30668.5859
+
+2024-11-04 13:00:39,086 - vali mse:31399120.0000, mae:116048.8984
+2024-11-04 13:00:39,088 - Epoch: 5 | Train Loss: 24362.0713 Vali Loss: 30663.2021
+
+2024-11-04 13:00:40,773 - vali mse:31391524.0000, mae:116023.4375
+2024-11-04 13:00:40,775 - Epoch: 6 | Train Loss: 24358.6852 Vali Loss: 30655.7858
+
+2024-11-04 13:00:42,486 - vali mse:31382492.0000, mae:115992.8594
+2024-11-04 13:00:42,488 - Epoch: 7 | Train Loss: 24351.6667 Vali Loss: 30646.9642
+
+2024-11-04 13:00:44,163 - vali mse:31372088.0000, mae:115957.4297
+2024-11-04 13:00:44,165 - Epoch: 8 | Train Loss: 24343.5563 Vali Loss: 30636.8034
+
+2024-11-04 13:00:45,843 - vali mse:31361326.0000, mae:115920.4766
+2024-11-04 13:00:45,847 - Epoch: 9 | Train Loss: 24344.7770 Vali Loss: 30626.2939
+
+2024-11-04 13:00:47,522 - vali mse:31350448.0000, mae:115882.8984
+2024-11-04 13:00:47,525 - Epoch: 10 | Train Loss: 24332.5270 Vali Loss: 30615.6729
+
+2024-11-04 13:00:49,313 - vali mse:31340032.0000, mae:115846.8281
+2024-11-04 13:00:49,315 - Epoch: 11 | Train Loss: 24322.9147 Vali Loss: 30605.5020
+
+2024-11-04 13:00:50,987 - vali mse:31330056.0000, mae:115812.1719
+2024-11-04 13:00:50,989 - Epoch: 12 | Train Loss: 24316.0498 Vali Loss: 30595.7598
+
+2024-11-04 13:00:52,630 - vali mse:31320544.0000, mae:115778.9375
+2024-11-04 13:00:52,632 - Epoch: 13 | Train Loss: 24313.4821 Vali Loss: 30586.4684
+
+2024-11-04 13:00:54,271 - vali mse:31311796.0000, mae:115748.3359
+2024-11-04 13:00:54,273 - Epoch: 14 | Train Loss: 24306.6488 Vali Loss: 30577.9264
+
+2024-11-04 13:00:55,930 - vali mse:31303554.0000, mae:115719.5391
+2024-11-04 13:00:55,932 - Epoch: 15 | Train Loss: 24302.9893 Vali Loss: 30569.8757
+
+2024-11-04 13:00:57,598 - vali mse:31296236.0000, mae:115693.9453
+2024-11-04 13:00:57,600 - Epoch: 16 | Train Loss: 24290.3441 Vali Loss: 30562.7324
+
+2024-11-04 13:00:59,261 - vali mse:31289732.0000, mae:115671.1406
+2024-11-04 13:00:59,263 - Epoch: 17 | Train Loss: 24286.1992 Vali Loss: 30556.3796
+
+2024-11-04 13:01:00,904 - vali mse:31283800.0000, mae:115650.3750
+2024-11-04 13:01:00,906 - Epoch: 18 | Train Loss: 24286.9710 Vali Loss: 30550.5876
+
+2024-11-04 13:01:02,544 - vali mse:31278716.0000, mae:115632.6719
+2024-11-04 13:01:02,546 - Epoch: 19 | Train Loss: 24279.7959 Vali Loss: 30545.6221
+
+2024-11-04 13:01:04,188 - vali mse:31274300.0000, mae:115617.2422
+2024-11-04 13:01:04,190 - Epoch: 20 | Train Loss: 24280.5692 Vali Loss: 30541.3092
+
+2024-11-04 13:01:05,826 - vali mse:31270560.0000, mae:115604.1406
+2024-11-04 13:01:05,828 - Epoch: 21 | Train Loss: 24276.6654 Vali Loss: 30537.6576
+
+2024-11-04 13:01:07,434 - vali mse:31267416.0000, mae:115593.1016
+2024-11-04 13:01:07,436 - Epoch: 22 | Train Loss: 24281.9342 Vali Loss: 30534.5859
+
+2024-11-04 13:01:09,089 - vali mse:31264948.0000, mae:115584.4531
+2024-11-04 13:01:09,091 - Epoch: 23 | Train Loss: 24272.0299 Vali Loss: 30532.1761
+
+2024-11-04 13:01:10,744 - vali mse:31263074.0000, mae:115577.8750
+2024-11-04 13:01:10,746 - Epoch: 24 | Train Loss: 24271.5085 Vali Loss: 30530.3457
+
+2024-11-04 13:01:12,404 - vali mse:31261712.0000, mae:115573.1016
+2024-11-04 13:01:12,407 - Epoch: 25 | Train Loss: 24263.9626 Vali Loss: 30529.0166
+
+2024-11-04 13:01:14,067 - vali mse:31260794.0000, mae:115569.8984
+2024-11-04 13:01:14,070 - Epoch: 26 | Train Loss: 24264.9411 Vali Loss: 30528.1214
+
+2024-11-04 13:01:15,725 - vali mse:31260242.0000, mae:115567.9766
+2024-11-04 13:01:15,727 - Epoch: 27 | Train Loss: 24263.8177 Vali Loss: 30527.5804
+
+2024-11-04 13:01:17,384 - vali mse:31259960.0000, mae:115566.9844
+2024-11-04 13:01:17,386 - Epoch: 28 | Train Loss: 24270.7731 Vali Loss: 30527.3040
+
+2024-11-04 13:01:19,008 - vali mse:31259860.0000, mae:115566.6328
+2024-11-04 13:01:19,010 - Epoch: 29 | Train Loss: 24260.4225 Vali Loss: 30527.2054
+
+2024-11-04 13:01:20,768 - vali mse:31259848.0000, mae:115566.5859
+2024-11-04 13:01:20,770 - Epoch: 30 | Train Loss: 24259.1400 Vali Loss: 30527.1934
+
+2024-11-04 13:01:21,423 - mse:31259848.0000, mae:115566.5859
+2024-11-07 16:01:34,290 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-11-07 16:01:49,704 - vali mse:31411504.0000, mae:116090.1406
+2024-11-07 16:01:49,954 - Epoch: 1 | Train Loss: 24363.5967 Vali Loss: 30675.2969
+
+2024-11-07 16:01:57,925 - vali mse:31410408.0000, mae:116086.4844
+2024-11-07 16:01:57,927 - Epoch: 2 | Train Loss: 24364.4102 Vali Loss: 30674.2256
+
+2024-11-07 16:02:06,475 - vali mse:31408224.0000, mae:116079.2500
+2024-11-07 16:02:06,476 - Epoch: 3 | Train Loss: 24368.6045 Vali Loss: 30672.0928
+
+2024-11-07 16:02:15,038 - vali mse:31404644.0000, mae:116067.3594
+2024-11-07 16:02:15,040 - Epoch: 4 | Train Loss: 24367.6032 Vali Loss: 30668.5954
+
+2024-11-07 16:02:23,775 - vali mse:31399114.0000, mae:116048.8906
+2024-11-07 16:02:23,777 - Epoch: 5 | Train Loss: 24362.0710 Vali Loss: 30663.1976
+
+2024-11-07 16:02:32,276 - vali mse:31391514.0000, mae:116023.3906
+2024-11-07 16:02:32,278 - Epoch: 6 | Train Loss: 24358.6885 Vali Loss: 30655.7754
+
+2024-11-07 16:02:40,758 - vali mse:31382494.0000, mae:115992.8672
+2024-11-07 16:02:40,759 - Epoch: 7 | Train Loss: 24351.6680 Vali Loss: 30646.9668
+
+2024-11-07 16:02:49,182 - vali mse:31372094.0000, mae:115957.4375
+2024-11-07 16:02:49,184 - Epoch: 8 | Train Loss: 24343.5579 Vali Loss: 30636.8092
+
+2024-11-07 16:02:57,366 - vali mse:31361352.0000, mae:115920.5469
+2024-11-07 16:02:57,368 - Epoch: 9 | Train Loss: 24344.7757 Vali Loss: 30626.3184
+
+2024-11-07 16:03:05,984 - vali mse:31350450.0000, mae:115882.9062
+2024-11-07 16:03:05,986 - Epoch: 10 | Train Loss: 24332.5286 Vali Loss: 30615.6742
+
+2024-11-07 16:03:14,493 - vali mse:31340024.0000, mae:115846.8047
+2024-11-07 16:03:14,495 - Epoch: 11 | Train Loss: 24322.9157 Vali Loss: 30605.4922
+
+2024-11-07 16:03:23,307 - vali mse:31330056.0000, mae:115812.1719
+2024-11-07 16:03:23,309 - Epoch: 12 | Train Loss: 24316.0511 Vali Loss: 30595.7607
+
+2024-11-07 16:03:32,152 - vali mse:31320540.0000, mae:115778.9219
+2024-11-07 16:03:32,154 - Epoch: 13 | Train Loss: 24313.4808 Vali Loss: 30586.4652
+
+2024-11-07 16:03:40,953 - vali mse:31311808.0000, mae:115748.3750
+2024-11-07 16:03:40,954 - Epoch: 14 | Train Loss: 24306.6439 Vali Loss: 30577.9382
+
+2024-11-07 16:03:49,494 - vali mse:31303556.0000, mae:115719.5469
+2024-11-07 16:03:49,496 - Epoch: 15 | Train Loss: 24302.9886 Vali Loss: 30569.8770
+
+2024-11-07 16:03:57,599 - vali mse:31296250.0000, mae:115693.9766
+2024-11-07 16:03:57,601 - Epoch: 16 | Train Loss: 24290.3444 Vali Loss: 30562.7425
+
+2024-11-07 16:04:05,590 - vali mse:31289746.0000, mae:115671.2031
+2024-11-07 16:04:05,592 - Epoch: 17 | Train Loss: 24286.1979 Vali Loss: 30556.3936
+
+2024-11-07 16:04:14,086 - vali mse:31283806.0000, mae:115650.4062
+2024-11-07 16:04:14,089 - Epoch: 18 | Train Loss: 24286.9704 Vali Loss: 30550.5918
+
+2024-11-07 16:04:22,839 - vali mse:31278712.0000, mae:115632.6641
+2024-11-07 16:04:22,841 - Epoch: 19 | Train Loss: 24279.7943 Vali Loss: 30545.6175
+
+2024-11-07 16:04:31,600 - vali mse:31274304.0000, mae:115617.2500
+2024-11-07 16:04:31,602 - Epoch: 20 | Train Loss: 24280.5662 Vali Loss: 30541.3141
+
+2024-11-07 16:04:40,025 - vali mse:31270564.0000, mae:115604.1562
+2024-11-07 16:04:40,026 - Epoch: 21 | Train Loss: 24276.6654 Vali Loss: 30537.6595
+
+2024-11-07 16:04:48,354 - vali mse:31267418.0000, mae:115593.1250
+2024-11-07 16:04:48,356 - Epoch: 22 | Train Loss: 24281.9326 Vali Loss: 30534.5872
+
+2024-11-07 16:04:56,626 - vali mse:31264926.0000, mae:115584.3828
+2024-11-07 16:04:56,628 - Epoch: 23 | Train Loss: 24272.0326 Vali Loss: 30532.1553
+
+2024-11-07 16:05:04,687 - vali mse:31263080.0000, mae:115577.8906
+2024-11-07 16:05:04,689 - Epoch: 24 | Train Loss: 24271.4971 Vali Loss: 30530.3496
+
+2024-11-07 16:05:12,663 - vali mse:31261722.0000, mae:115573.1328
+2024-11-07 16:05:12,666 - Epoch: 25 | Train Loss: 24263.9710 Vali Loss: 30529.0277
+
+2024-11-07 16:05:20,726 - vali mse:31260780.0000, mae:115569.8438
+2024-11-07 16:05:20,728 - Epoch: 26 | Train Loss: 24264.9411 Vali Loss: 30528.1055
+
+2024-11-07 16:05:29,288 - vali mse:31260250.0000, mae:115567.9922
+2024-11-07 16:05:29,290 - Epoch: 27 | Train Loss: 24263.8148 Vali Loss: 30527.5885
+
+2024-11-07 16:05:37,794 - vali mse:31259954.0000, mae:115566.9688
+2024-11-07 16:05:37,796 - Epoch: 28 | Train Loss: 24270.7783 Vali Loss: 30527.2982
+
+2024-11-07 16:05:46,369 - vali mse:31259854.0000, mae:115566.6250
+2024-11-07 16:05:46,371 - Epoch: 29 | Train Loss: 24260.4173 Vali Loss: 30527.2008
+
+2024-11-07 16:05:54,662 - vali mse:31259840.0000, mae:115566.5703
+2024-11-07 16:05:54,664 - Epoch: 30 | Train Loss: 24259.1331 Vali Loss: 30527.1878
+
+2024-11-07 16:05:58,727 - mse:31259840.0000, mae:115566.5703
+2024-11-27 14:59:03,187 - 
+device: 	cuda	
+res_dir: 	./output/simvp_taxibj_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	16	
+val_batch_size: 	16	
+data_root: 	./data/TaxiBJ/	
+dataname: 	taxibj	
+num_workers: 	8	
+in_shape: 	[4, 2, 32, 32]	
+hid_S: 	32	
+hid_T: 	64	
+N_S: 	4	
+N_T: 	8	
+groups: 	4	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-11-27 14:59:08,204 - vali mse:31411510.0000, mae:116090.1406
+2024-11-27 14:59:08,328 - Epoch: 1 | Train Loss: 24363.5954 Vali Loss: 30675.3014
+
+2024-11-27 14:59:09,500 - vali mse:31410396.0000, mae:116086.4609
+2024-11-27 14:59:09,502 - Epoch: 2 | Train Loss: 24364.4069 Vali Loss: 30674.2152
+
+2024-11-27 14:59:10,694 - vali mse:31408216.0000, mae:116079.2344
+2024-11-27 14:59:10,696 - Epoch: 3 | Train Loss: 24368.6032 Vali Loss: 30672.0866
+
+2024-11-27 14:59:11,767 - vali mse:31404628.0000, mae:116067.3125
+2024-11-27 14:59:11,769 - Epoch: 4 | Train Loss: 24367.6079 Vali Loss: 30668.5820
+
+2024-11-27 14:59:12,755 - vali mse:31399114.0000, mae:116048.8906
+2024-11-27 14:59:12,757 - Epoch: 5 | Train Loss: 24362.0716 Vali Loss: 30663.1986
+
+2024-11-27 14:59:14,245 - vali mse:31391520.0000, mae:116023.4219
+2024-11-27 14:59:14,246 - Epoch: 6 | Train Loss: 24358.6852 Vali Loss: 30655.7826
+
+2024-11-27 14:59:15,426 - vali mse:31382492.0000, mae:115992.8594
+2024-11-27 14:59:15,428 - Epoch: 7 | Train Loss: 24351.6663 Vali Loss: 30646.9658
+
+2024-11-27 14:59:16,622 - vali mse:31372084.0000, mae:115957.4219
+2024-11-27 14:59:16,624 - Epoch: 8 | Train Loss: 24343.5570 Vali Loss: 30636.8027
+
+2024-11-27 14:59:17,615 - vali mse:31361328.0000, mae:115920.4922
+2024-11-27 14:59:17,617 - Epoch: 9 | Train Loss: 24344.7773 Vali Loss: 30626.2982
+
+2024-11-27 14:59:18,610 - vali mse:31350446.0000, mae:115882.8828
+2024-11-27 14:59:18,612 - Epoch: 10 | Train Loss: 24332.5277 Vali Loss: 30615.6719
+
+2024-11-27 14:59:19,595 - vali mse:31340040.0000, mae:115846.8516
+2024-11-27 14:59:19,597 - Epoch: 11 | Train Loss: 24322.9134 Vali Loss: 30605.5068
+
+2024-11-27 14:59:20,581 - vali mse:31330062.0000, mae:115812.1719
+2024-11-27 14:59:20,583 - Epoch: 12 | Train Loss: 24316.0501 Vali Loss: 30595.7620
+
+2024-11-27 14:59:21,757 - vali mse:31320544.0000, mae:115778.9531
+2024-11-27 14:59:21,759 - Epoch: 13 | Train Loss: 24313.4827 Vali Loss: 30586.4697
+
+2024-11-27 14:59:23,036 - vali mse:31311796.0000, mae:115748.3438
+2024-11-27 14:59:23,038 - Epoch: 14 | Train Loss: 24306.6507 Vali Loss: 30577.9274
+
+2024-11-27 14:59:24,041 - vali mse:31303554.0000, mae:115719.5469
+2024-11-27 14:59:24,043 - Epoch: 15 | Train Loss: 24302.9902 Vali Loss: 30569.8766
+
+2024-11-27 14:59:25,223 - vali mse:31296240.0000, mae:115693.9531
+2024-11-27 14:59:25,225 - Epoch: 16 | Train Loss: 24290.3438 Vali Loss: 30562.7331
+
+2024-11-27 14:59:26,218 - vali mse:31289732.0000, mae:115671.1406
+2024-11-27 14:59:26,220 - Epoch: 17 | Train Loss: 24286.2005 Vali Loss: 30556.3805
+
+2024-11-27 14:59:27,216 - vali mse:31283800.0000, mae:115650.3750
+2024-11-27 14:59:27,218 - Epoch: 18 | Train Loss: 24286.9714 Vali Loss: 30550.5859
+
+2024-11-27 14:59:28,211 - vali mse:31278718.0000, mae:115632.6719
+2024-11-27 14:59:28,213 - Epoch: 19 | Train Loss: 24279.7965 Vali Loss: 30545.6221
+
+2024-11-27 14:59:29,207 - vali mse:31274300.0000, mae:115617.2500
+2024-11-27 14:59:29,209 - Epoch: 20 | Train Loss: 24280.5710 Vali Loss: 30541.3096
+
+2024-11-27 14:59:30,215 - vali mse:31270564.0000, mae:115604.1562
+2024-11-27 14:59:30,216 - Epoch: 21 | Train Loss: 24276.6650 Vali Loss: 30537.6615
+
+2024-11-27 14:59:31,511 - vali mse:31267412.0000, mae:115593.0938
+2024-11-27 14:59:31,514 - Epoch: 22 | Train Loss: 24281.9336 Vali Loss: 30534.5833
+
+2024-11-27 14:59:32,544 - vali mse:31264944.0000, mae:115584.4375
+2024-11-27 14:59:32,545 - Epoch: 23 | Train Loss: 24272.0296 Vali Loss: 30532.1715
+
+2024-11-27 14:59:33,566 - vali mse:31263072.0000, mae:115577.8672
+2024-11-27 14:59:33,567 - Epoch: 24 | Train Loss: 24271.5062 Vali Loss: 30530.3454
+
+2024-11-27 14:59:34,624 - vali mse:31261712.0000, mae:115573.0938
+2024-11-27 14:59:34,626 - Epoch: 25 | Train Loss: 24263.9639 Vali Loss: 30529.0150
+
+2024-11-27 14:59:35,715 - vali mse:31260790.0000, mae:115569.8828
+2024-11-27 14:59:35,716 - Epoch: 26 | Train Loss: 24264.9408 Vali Loss: 30528.1149
+
+2024-11-27 14:59:36,705 - vali mse:31260238.0000, mae:115567.9531
+2024-11-27 14:59:36,707 - Epoch: 27 | Train Loss: 24263.8141 Vali Loss: 30527.5771
+
+2024-11-27 14:59:37,694 - vali mse:31259954.0000, mae:115566.9688
+2024-11-27 14:59:37,695 - Epoch: 28 | Train Loss: 24270.7712 Vali Loss: 30527.2985
+
+2024-11-27 14:59:38,803 - vali mse:31259856.0000, mae:115566.6250
+2024-11-27 14:59:38,804 - Epoch: 29 | Train Loss: 24260.4219 Vali Loss: 30527.2028
+
+2024-11-27 14:59:40,091 - vali mse:31259842.0000, mae:115566.5781
+2024-11-27 14:59:40,093 - Epoch: 30 | Train Loss: 24259.1387 Vali Loss: 30527.1911
+
+2024-11-27 14:59:40,580 - mse:31259842.0000, mae:115566.5781

@@ -1,0 +1,24 @@
+2024-11-28 19:09:45,387 - 
+device: 	cuda	
+res_dir: 	./output/simvp_nighttime_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+batch_size: 	64	
+val_batch_size: 	64	
+data_root: 	./data/nighttime/	
+dataname: 	nighttime	
+num_workers: 	0	
+in_shape: 	[2, 1, 32, 32]	
+hid_S: 	64	
+hid_T: 	128	
+N_S: 	4	
+N_T: 	8	
+groups: 	1	
+epochs: 	30	
+log_step: 	1	
+lr: 	1e-05	
+2024-11-28 19:11:28,395 - No checkpoint found at ./output/simvp_nighttime_mask/Debug/checkpoints/checkpoint.pth
+2024-11-28 19:11:28,396 - No checkpoints found. Starting from scratch.
+2024-11-28 19:11:28,396 - Starting training from epoch 0

@@ -1,0 +1,112 @@
+mode: 	nuwa	
+device: 	cuda	
+res_dir: 	./output/simvp_nighttime_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+log_step: 	1	
+batch_size: 	8	
+val_batch_size: 	8	
+data_root: 	/home/ansingh/Nuwa_Hawkes/data/nighttime/	
+dataname: 	nighttime	
+num_workers: 	0	
+max_files: 	None	
+max_patches: 	None	
+in_shape: 	[2, 1, 32, 32]	
+hid_S: 	64	
+hid_T: 	128	
+N_S: 	4	
+N_T: 	8	
+groups: 	1	
+epochs: 	1	
+lr: 	1e-05	
+nuwa_checkpoint: 	None	
+hawkes_epochs: 	1	
+hawkes_lr: 	0.001	
+event_threshold: 	0.5	
+beta: 	1.0	
+sigma_k_scale: 	1.0	
+sigma_zeta_scale: 	1.0	
+mu: 	0.1	
+2024-12-04 06:57:58,038 - No checkpoint found at ./output/simvp_nighttime_mask/Debug/checkpoints/checkpoint.pth
+2024-12-04 06:57:58,038 - No checkpoints found. Starting from scratch.
+2024-12-04 06:57:58,038 - Starting training from epoch 0
+2024-12-04 07:00:46,138 - Epoch 1/1, Train Loss: 0.270820164680481
+2024-12-04 07:09:15,943 - 
+mode: 	nuwa	
+device: 	cuda	
+res_dir: 	./output/simvp_nighttime_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+log_step: 	1	
+batch_size: 	8	
+val_batch_size: 	8	
+data_root: 	/home/ansingh/Nuwa_Hawkes/data/nighttime/	
+dataname: 	nighttime	
+num_workers: 	0	
+max_files: 	None	
+max_patches: 	None	
+in_shape: 	[2, 1, 32, 32]	
+hid_S: 	64	
+hid_T: 	128	
+N_S: 	4	
+N_T: 	8	
+groups: 	1	
+epochs: 	1	
+lr: 	1e-05	
+nuwa_checkpoint: 	None	
+hawkes_epochs: 	1	
+hawkes_lr: 	0.001	
+event_threshold: 	0.5	
+beta: 	1.0	
+sigma_k_scale: 	1.0	
+sigma_zeta_scale: 	1.0	
+mu: 	0.1	
+2024-12-04 07:09:16,112 - No checkpoint found at ./output/simvp_nighttime_mask/Debug/checkpoints/checkpoint.pth
+2024-12-04 07:09:16,112 - No checkpoints found. Starting from scratch.
+2024-12-04 07:09:16,112 - Starting training from epoch 0
+2024-12-04 07:12:06,034 - Epoch 1/1, Train Loss: 0.270820164680481
+2024-12-04 07:20:27,044 - 
+mode: 	nuwa	
+device: 	cuda	
+res_dir: 	./output/simvp_nighttime_mask	
+ex_name: 	Debug	
+use_gpu: 	True	
+gpu: 	1	
+seed: 	1	
+log_step: 	1	
+batch_size: 	8	
+val_batch_size: 	8	
+data_root: 	/home/ansingh/Nuwa_Hawkes/data/nighttime/	
+dataname: 	nighttime	
+num_workers: 	0	
+max_files: 	None	
+max_patches: 	None	
+in_shape: 	[2, 1, 32, 32]	
+hid_S: 	64	
+hid_T: 	128	
+N_S: 	4	
+N_T: 	8	
+groups: 	1	
+epochs: 	1	
+lr: 	1e-05	
+nuwa_checkpoint: 	None	
+hawkes_epochs: 	1	
+hawkes_lr: 	0.001	
+event_threshold: 	0.5	
+beta: 	1.0	
+sigma_k_scale: 	1.0	
+sigma_zeta_scale: 	1.0	
+mu: 	0.1	
+2024-12-04 07:20:27,223 - No checkpoint found at ./output/simvp_nighttime_mask/Debug/checkpoints/checkpoint.pth
+2024-12-04 07:20:27,223 - No checkpoints found. Starting from scratch.
+2024-12-04 07:20:27,223 - Starting training from epoch 0
+2024-12-04 07:23:17,154 - Epoch 1/1, Train Loss: 0.270820164680481
+2024-12-04 07:26:11,829 - vali mse:3551.6821, mae:6311.1367
+2024-12-04 07:26:12,002 - Checkpoint saved successfully at ./output/simvp_nighttime_mask/Debug/checkpoints/checkpoint_epoch_0.pth
+2024-12-04 07:26:12,172 - Checkpoint saved successfully at ./output/simvp_nighttime_mask/Debug/checkpoints/checkpoint.pth
+2024-12-04 07:26:12,173 - Epoch: 1 | Train Loss: 0.2708 Vali Loss: 0.2168
+
